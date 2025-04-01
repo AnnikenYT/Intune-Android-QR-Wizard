@@ -1,3 +1,8 @@
+> [!IMPORTANT]  
+> This fork is just made for piece of mind, since it handles sensitive information and I don't want a malicious actor to change the code without me knowing. Please show the original author some love!
+> [Visit r3itosv87 on GitHub](https://github.com/r3itosv87/Intune-Android-QR-Wizard)
+
+
 # Android Enterprise with Intune - Wi-Fi QR Wizard
 
 **[Access the Wi-Fi QR Wizard tool here](https://r3itosv87.github.io/Intune-Android-QR-Wizard/)**
