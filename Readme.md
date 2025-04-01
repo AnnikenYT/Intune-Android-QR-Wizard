@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This fork is just made for piece of mind, since it handles sensitive information and I don't want a malicious actor to change the code without me knowing. Please show the original author some love!
+> This fork is just made for peace of mind, since it handles sensitive information and I don't want a malicious actor to change the code without me knowing. Please show the original author some love!
 > [Visit r3itosv87 on GitHub](https://github.com/r3itosv87/Intune-Android-QR-Wizard)
 
 
